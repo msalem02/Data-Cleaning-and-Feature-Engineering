@@ -77,7 +77,7 @@ pip install -r requirements.txt
 Mohammed Yousef Salem  
 Final-Year Computer Engineering Student — Birzeit University  
 
-- Email: msalem02@gmail.com  
+- Email: salemmohamad926@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/msalem02  
 - GitHub: https://github.com/msalem02
 
@@ -105,3 +105,4 @@ If this project helps you or you find it useful:
 - Please give it a star on GitHub  
 - Feel free to suggest improvements or submit pull requests  
 - Share it with others working in data science or machine learning
+
